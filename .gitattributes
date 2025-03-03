@@ -1,0 +1,4 @@
+1.Controle filter=lfs diff=lfs merge=lfs -text
+de filter=lfs diff=lfs merge=lfs -text
+Consultas.xlsx filter=lfs diff=lfs merge=lfs -text
+GIT/* filter=lfs diff=lfs merge=lfs -text
